@@ -1,7 +1,7 @@
 <p align="center">
   <h3 align="center">VTOP AutoOpen</h3>
   <p align="center">
-    Extension that intercepts VTOP reference material downloads and opens PDFs directly in the native viewer—no “Save as…” prompts, no CSP errors.
+    Extension that intercepts VTOP reference material downloads and opens PDFs directly in the native viewer
   </p>
 </p>
 
